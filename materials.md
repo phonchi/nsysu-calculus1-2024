@@ -8,8 +8,8 @@ permalink: /materials/
 
 ## Book
 
-* [Calculus, 11th Ed (Metric Version)](https://www.cengage.co.uk/books/9781337616195/)
-* [Resources provided by authors](https://www.larsoncalculus.com/calc11/)
+* [Calculus, 12th Ed (Metric Version)](https://www.tunghua.com.tw/portal_b10_cnt_page.php?button_num=b10&folder_id=666&cnt_id=10267)
+* [Resources provided by authors](https://www.calcview.com/calculus-12e/P/1/#CVV_NJtWMN2d6ck)
 
 ## Graphical tools
 * [https://www.wolframalpha.com/](https://www.wolframalpha.com/)
