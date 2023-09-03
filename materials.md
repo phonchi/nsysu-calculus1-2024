@@ -13,7 +13,7 @@ permalink: /materials/
 
 ## Graphical tools
 * [https://www.wolframalpha.com/](https://www.wolframalpha.com/)
-* [https://wolfreealpha.github.io/input/index.html](https://wolfreealpha.github.io/input/index.html)
+* [https://wolfreealpha.gitlab.io/](https://wolfreealpha.gitlab.io/)
 
 ## Resources
 * [微積分(黃文璋老師)](https://www.stat.nuk.edu.tw/cbme/math/calculus/)
