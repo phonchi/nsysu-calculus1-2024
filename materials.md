@@ -22,7 +22,7 @@ permalink: /materials/
 * [微積分總棟員](https://sites.google.com/site/calculusteaching/home/calculus?authuser=0)
 * [微積分(黃文璋老師)](https://www.stat.nuk.edu.tw/cbme/math/calculus/)
 * [微積分(朱樺老師)](http://www.math.ntu.edu.tw/~hchu/Calculus/)
-* [微積分(齊震宇老師)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S11)
+* [微積分(齊震宇老師)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S115)
 * [微積分(顏國勇老師)](http://www.math.ncku.edu.tw/~library/e-book/Calculus2014.pdf)
 
 ## Blogs
