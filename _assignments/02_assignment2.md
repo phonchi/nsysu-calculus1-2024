@@ -6,6 +6,6 @@ attachment: /static_files/assignments/Homework  2.pdf
 due_event: 
     type: due
     date: 2023-09-20T12:00:00+3:30
-    description: 'Assignment #1 due'
+    description: 'Assignment #2 due'
 ---
 This is HW2.
