@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-09-19
+date: 2023-09-20
 title: Differentiation
 tldr: 
 thumbnail: 
