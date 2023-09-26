@@ -12,4 +12,4 @@ links:
 ---
 **Suggested Readings:**
 - Chapter 2.4~3.3
-- [[chapter 3 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-calculus1/static_files/presentations/chap03_Summary_Chinese.pdf)
+
