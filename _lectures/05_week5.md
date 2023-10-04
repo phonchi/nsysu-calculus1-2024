@@ -11,4 +11,4 @@ links:
 ---
 **Suggested Readings:**
 - Chapter 3.3~3.6, 3.8
-
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-84OM_isUZ5_g0K5ipG4G-up&si=lCTk4plqD0mJ8pQw)
