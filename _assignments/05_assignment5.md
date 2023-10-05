@@ -5,7 +5,7 @@ title: 'Assignment #5'
 attachment: /static_files/assignments/Homework  5.pdf
 due_event: 
     type: due
-    date: 2023-10-12T12:00:00+3:30
+    date: 2023-10-11T18:00:00+3:30
     description: 'Assignment #5 due'
 ---
 This is HW5.
