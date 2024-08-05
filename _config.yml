@@ -1,7 +1,7 @@
 # Site settings
 course_name: Calculus (I)
 course_description: "This course will study the basic knowledge and techniques of calculus for real-valued functions of one single variable."
-course_semester: "Fall 2023"
+course_semester: "Fall 2024"
 
 baseurl: "/nsysu-calculus1/" # the subpath of your site, e.g. /blog/
 url: "https://phonchi.github.io/" # the base hostname & protocol for your site
