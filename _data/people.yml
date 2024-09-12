@@ -1,16 +1,13 @@
 instructors:
   - name: 鍾思齊 (Office 理 SC 2002-4)
     profile_pic: /_images/pp/avatar.png
-    office hour: Mon. 16:00~18:00 and Wed. 16:00~18:00
     webpage: https://math.nsysu.edu.tw/p/406-1183-263491,r2843.php?Lang=zh-tw
 
-teaching_assistants ([scienc table](https://sites.google.com/g-mail.nsysu.edu.tw/quality-plan/home?authuser=0)):
+teaching_assistants:
   - name: 陳慶耀 (Office 理 SC 2003-2)
     profile_pic: /_images/pp/avatar.png
-    TA hour: Tue. 14:00~15:00
     webpage: mailto:a0917095851@gmail.com
   - name: 阮柏誠 (Office 理 SC 1011-3)
     profile_pic: /_images/pp/avatar.png
-    TA hour: Tue. 16:00~17:00
     webpage: mailto:409200119@gms.tku.edu.tw
 
