@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2024-09-27T15:00:00+3:30
-title: 'Assignment #2'
+title: 'Assignment #3'
 attachment: /static_files/assignments/homework3.pdf
 
 due_event: 
