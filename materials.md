@@ -20,7 +20,7 @@ permalink: /materials/
 ## Resources
 * [微積分(蔡雅如老師)](https://www.youtube.com/channel/UC1T7X8YcmtKpJ-vwtQk3DbA/playlists)
 * [微積分(莊重老師)](https://www.youtube.com/playlist?list=PL36601F252C5D7332)
-* [微積分(李國偉老師)](http://www.math.ncue.edu.tw/~kwlee/107CalculusStewart8E.html)
+* [微積分(李國偉老師)](https://sites.google.com/gm.ncue.edu.tw/calculus/%E9%A6%96%E9%A0%81)
 * [微積分總棟員](https://sites.google.com/site/calculusteaching/home/calculus?authuser=0)
 * [微積分(黃文璋老師)](https://www.stat.nuk.edu.tw/cbme/math/calculus/)
 * [微積分(朱樺老師)](http://www.math.ntu.edu.tw/~hchu/Calculus/)
