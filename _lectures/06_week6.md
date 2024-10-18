@@ -11,3 +11,4 @@ links:
 ---
 **Suggested Readings:**
 - Chapter 3.2~3.6
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-85dqbOtxjRs_EgJah4xALbJ&si=gdpIdxt2of1lHbJN)
