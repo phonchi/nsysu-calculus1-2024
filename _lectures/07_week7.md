@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-10-25
+date: 2024-10-25
 title: Application of differentiation, Integration
 tldr: 
 thumbnail: 
