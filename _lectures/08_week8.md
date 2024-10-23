@@ -11,6 +11,5 @@ links:
 ---
 **Suggested Readings:**
 - Chapter 4.1~4.3
-- [Root finding using Python](https://patrickwalls.github.io/mathematicalpython/root-finding/newton/)
 
 
