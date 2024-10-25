@@ -11,7 +11,7 @@ links:
 
 ---
 **Suggested Readings:**
-- Chapter 3.6~3.9, 4.1
+- Chapter 3.6~3.9
 - [Root finding using Python](https://patrickwalls.github.io/mathematicalpython/root-finding/newton/)
-- [[chapter 4 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-calculus1/static_files/presentations/Chap04_Summary.pdf)
+- [[Recorded video]](https://www.youtube.com/playlist?list=PLHNZtBNWQ-85lNcV9oqC9_dR7m12XXRi8)
 
