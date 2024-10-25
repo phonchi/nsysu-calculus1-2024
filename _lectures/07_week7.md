@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-10-25
-title: Application of differentiation, Integration
+title: Application of differentiation
 tldr: 
 thumbnail: 
 hide_from_announcments: true
