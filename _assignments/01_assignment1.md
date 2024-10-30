@@ -3,6 +3,7 @@ type: assignment
 date: 2024-09-13T17:00:00+3:30
 title: 'Assignment #1'
 attachment: /static_files/assignments/homework1.pdf
+solutions: /static_files/assignments/hw1_sol.pdf
 
 due_event: 
     type: due
