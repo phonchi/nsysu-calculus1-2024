@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-11-13
+date: 2024-11-15
 title: Integration, Logarithmic, Exponential, and Other Transcendental Functions
 tldr: 
 thumbnail: 
